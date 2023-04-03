@@ -1,0 +1,37 @@
+[21-Feb-2023 09:23:36 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/config/config.php on line 10
+[21-Feb-2023 09:23:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/config/config.php on line 10
+[21-Feb-2023 09:23:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/config/config.php on line 10
+[21-Feb-2023 09:23:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/config/config.php on line 10
+[21-Feb-2023 09:23:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/config/config.php on line 10
+[21-Feb-2023 09:23:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/config/config.php on line 10
+[21-Feb-2023 09:23:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/config/config.php on line 10
+[21-Feb-2023 09:23:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/config/config.php on line 10
+[21-Feb-2023 09:23:41 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/config/config.php on line 10
+[21-Feb-2023 09:23:41 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/config/config.php on line 10
+[21-Feb-2023 09:23:43 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/config/config.php on line 10
+[21-Feb-2023 09:23:43 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/config/config.php on line 10
+[21-Feb-2023 09:26:49 UTC] PHP Warning:  Undefined array key "status" in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/login.php on line 22
+[21-Feb-2023 09:27:27 UTC] PHP Warning:  Undefined variable $arrayuser in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:27:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:27:28 UTC] PHP Warning:  Undefined variable $arrayuser in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:27:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:27:31 UTC] PHP Warning:  Undefined variable $arrayuser in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:27:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:27:37 UTC] PHP Warning:  Undefined variable $arrayuser in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:27:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:27:55 UTC] PHP Warning:  Undefined variable $arrayuser in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:27:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:27:57 UTC] PHP Warning:  Undefined variable $arrayuser in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:27:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:27:59 UTC] PHP Warning:  Undefined variable $arrayuser in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:27:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:28:03 UTC] PHP Warning:  Undefined variable $arrayuser in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:28:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:28:04 UTC] PHP Warning:  Undefined variable $arrayuser in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:28:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:28:06 UTC] PHP Warning:  Undefined variable $arrayuser in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:28:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:28:16 UTC] PHP Warning:  Undefined variable $arrayuser in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:28:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:28:36 UTC] PHP Warning:  Undefined variable $arrayuser in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52
+[21-Feb-2023 09:28:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/mdto1xkc74ny/public_html/rnj.welovedev.id/footer.php on line 52

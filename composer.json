@@ -1,0 +1,6 @@
+{
+    "require": {
+        "simplon/mysql": "^2.2",
+        "whichbrowser/parser": "^2.1"
+    }
+}
